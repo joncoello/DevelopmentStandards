@@ -1,3 +1,3 @@
 # Development Standards
 
-* [DevOps](dev-ops)
+* [DevOps](dev-ops.md)
